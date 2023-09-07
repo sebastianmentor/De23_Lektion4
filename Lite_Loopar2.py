@@ -13,12 +13,12 @@
 #     print(name[index], end='<---')
 
 #-------------------------------------------------
-# import os 
-# import time
-# for j in range(10):
-#     os.system('cls') # Mac+ Linux använd 'clear'
-#     time.sleep(0.5)
+import os 
+import time
+for j in range(10):
+    os.system('cls') # Mac+ Linux använd 'clear'
+    time.sleep(0.5)
 
-#     for i in range(1,15,2):
-#         print((i*'*').center(18))
-#     time.sleep(0.5)
+    for i in range(1,15,2):
+        print((i*'*').center(18))
+    time.sleep(0.5)
